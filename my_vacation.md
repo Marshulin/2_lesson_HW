@@ -22,3 +22,7 @@
 Эксперементы на собственной кухне.
 
 ## Мудборд
+
+![](road.jpg) ![](hotel.jpg)
+![](kayak.jpg) ![](ski.jpg)
+![](food.jpg) ![](spa.jpg)
